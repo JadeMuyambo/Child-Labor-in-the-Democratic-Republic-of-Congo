@@ -33,7 +33,7 @@ To communicate complex data and statistics on child labor in the DRC through vis
 - Gender breakdown of child labor  
 - Pie chart of child labor by industry  
 
-## 🙋🏽‍♀️ Author
+## 📄 Author
 **Jade Muyambo**  
 Graduate Student – Data Science  
 University of Miami
